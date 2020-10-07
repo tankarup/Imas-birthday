@@ -1,0 +1,4 @@
+handlers:
+- name: birthday
+inlineCloudFunction:
+  executeFunction: ActionsOnGoogleFulfillment

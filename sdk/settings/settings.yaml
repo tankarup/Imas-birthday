@@ -1,0 +1,29 @@
+category: GAMES_AND_TRIVIA
+defaultLocale: ja
+enabledRegions:
+- Japan
+localizedSettings:
+  developerEmail: taschen235711@yahoo.co.jp
+  developerName: たんかるP
+  displayName: アイドルマスターの誕生日
+  fullDescription: |-
+    アイドルマスターに登場するアイドルの中から、今日または明日が誕生日のアイドルをお知らせします。
+
+    おススメの使い方：Googleアシスタントの「おはよう」ルーティンに登録して、布団の中でアイドルの誕生日をお祝いしましょう。一日の生きる気力がわいてきます。
+
+    補足情報：
+    ・アイドルマスターはバンダイナムコエンターテインメント社が所有するコンテンツです。
+    ・アイドルの名前、誕生日、読み方はデータベースサイト"im@sparql"のデータを使わせていただきました。
+  privacyPolicyUrl: https://github.com/tankarup/Imas-birthday/blob/master/Privacy%20policy.md
+  pronunciation: アイドルマスターの誕生日
+  sampleInvocations:
+  - アイドルマスターの誕生日につないで
+  - アイドルマスターの誕生日を教えて
+  shortDescription: アイドルマスターに登場するアイドルの誕生日を知らせます。
+  smallLogoImage: https://lh3.googleusercontent.com/bMvuZH_YWdovhjZMHoIbh_Zt-GNhFmI0YwBv77Cq4_aRfHCwh4PzHzA-NUICOIdS8-i1WF78wzqS
+  themeCustomization:
+    backgroundColor: '#FAFAFA'
+    imageCornerStyle: CURVED
+    primaryColor: '#101010'
+  voice: female_2
+projectId: imasdays
