@@ -3,5 +3,7 @@ Actions on Googleでアイドルマスターに登場するアイドルの誕生
 
 Googleアシスタントで利用可能です。「アイドルマスターの誕生日」と話しかけてください。
 
+https://assistant.google.com/services/a/uid/000000029edc6554?hl=ja-JP
+
 ## 謝辞
 * アイドルの誕生日データは im@sparql のデータを使用させていただきました。
